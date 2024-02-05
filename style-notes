@@ -1,0 +1,29 @@
+Page Layout:
+
+- Body is center fixed-width. Content is 600px. Padding on the sides is 50px; - done
+- Images are 200px wide done
+
+Colors:
+-Body background is rgba(255,255,255,0.7) done
+-Images have a 2px black border, but on hover they are red with a 'cursor: pointer' declaration. done
+
+-"Choose account type" and "Hello doctor..." are gray.
+-inputs, on hover, have a background of #2b6eb1
+-The form area has a background of lightblue and a border that is 3px and darkblue
+-hyperlinks are darkblue
+-buttons have a darkblue background, with white letters and a pointer cursor on hover.
+-on hover, the button has a 'opacity: 0.5' declaration
+
+Fonts:
+
+- base font is: 'Prompt', sans-serif
+- This is a google font, but The <link> tags are already supplied in the <head> tag. You do not need to go to google fonts.
+
+Other:
+
+- Email/password inputs have a placeholder attribute that allows a light preset value to appear in the field.
+- All hyperlinks open in a new window dobe
+- Click Here href: https://bcchr.ca/user/password done
+- Signup href: https://www.twopointhospital.com/en/register done
+- Check the hover effects above.
+- All other margin, padding, border-radius properties must be estimated from the screenshot.
